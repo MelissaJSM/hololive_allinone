@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">holo_marine</string>
+
+
+
+    <array name="png_marine">
+        <item>@drawable/marineloading_0</item>
+        <item>@drawable/marineloading_1</item>
+        <item>@drawable/marineloading_2</item>
+        <item>@drawable/marineloading_3</item>
+        <item>@drawable/marineloading_4</item>
+        <item>@drawable/marineloading_5</item>
+        <item>@drawable/marineloading_6</item>
+        <item>@drawable/marineloading_7</item>
+        <item>@drawable/marineloading_8</item>
+        <item>@drawable/marineloading_9</item>
+        <item>@drawable/marineloading_10</item> <!-- 10 -->
+        <item>@drawable/marineloading_11</item> <!-- 11 -->
+        <item>@drawable/marineloading_12</item> <!-- 12 -->
+        <item>@drawable/marineloading_13</item> <!-- 13 -->
+        <item>@drawable/marineloading_14</item> <!-- 14 -->
+        <item>@drawable/marineloading_15</item> <!-- 15 -->
+        <item>@drawable/marineloading_16</item> <!-- 16 -->
+        <item>@drawable/marineloading_17</item> <!-- 17 -->
+        <item>@drawable/marineloading_18</item> <!-- 18 -->
+        <item>@drawable/marineloading_19</item> <!-- 19 -->
+        <item>@drawable/marineloading_20</item> <!-- 20 -->
+        <item>@drawable/marineloading_21</item>
+        <item>@drawable/marineloading_22</item>
+        <item>@drawable/marineloading_23</item>
+        <item>@drawable/marineloading_24</item>
+        <item>@drawable/marineloading_25</item>
+        <item>@drawable/marineloading_26</item>
+        <item>@drawable/marineloading_27</item>
+        <item>@drawable/marineloading_28</item>
+        <item>@drawable/marineloading_29</item>
+        <item>@drawable/marineloading_30</item>
+        <item>@drawable/marineloading_31</item>
+        <item>@drawable/marineloading_32</item>
+        <item>@drawable/marineloading_33</item>
+        <item>@drawable/marineloading_34</item>
+        <item>@drawable/marineloading_35</item>
+        <item>@drawable/marineloading_36</item>
+        <item>@drawable/marineloading_37</item>
+        <item>@drawable/marineloading_38</item>
+        <item>@drawable/marineloading_39</item>
+        <item>@drawable/marineloading_40</item>
+        <item>@drawable/marineloading_41</item>
+        <item>@drawable/marineloading_42</item>
+        <item>@drawable/marineloading_43</item>
+        <item>@drawable/marineloading_44</item>
+        <item>@drawable/marineloading_45</item>
+        <item>@drawable/marineloading_46</item>
+        <item>@drawable/marineloading_47</item>
+        <item>@drawable/marineloading_48</item>
+        <item>@drawable/marineloading_49</item>
+        <item>@drawable/marineloading_50</item>
+        <item>@drawable/marineloading_51</item>
+        <item>@drawable/marineloading_52</item>
+        <item>@drawable/marineloading_53</item>
+        <item>@drawable/marineloading_54</item>
+        <item>@drawable/marineloading_55</item>
+        <item>@drawable/marineloading_56</item>
+        <item>@drawable/marineloading_57</item>
+        <item>@drawable/marineloading_58</item>
+        <item>@drawable/marineloading_59</item>
+        <item>@drawable/marineloading_60</item>
+
+    </array>
+</resources>
